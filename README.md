@@ -79,3 +79,6 @@ CompanyCode即为ExpressCompanyCode
 邮件服务器信息
 系统发邮件的功能时使用的SMTP服务器，目前可使用的有163邮箱，QQ邮箱，关于C#使用SMTP发邮件相关配置可自行百度。配置好这些内容以后
 就可以使用windows安装卸载工具来启动任务系统了。
+
+
+博文：http://www.cnblogs.com/yanweidie/p/5297593.html
